@@ -5,8 +5,12 @@
   background: url("https://www.pole-emploi.fr/accueil/image/mmlelement/pj/ea/bc/95/24/home-cover-48859.jpg") no-repeat center center fixed;
   background-size: cover;
   display: flex;
-  height: 80vh;
+  height: 77vh;
   justify-content: center;
+}
+
+#pub {
+  width: auto;
 }
 
 .level a {
@@ -30,8 +34,23 @@
   border-radius: 100%;
   height: 80px;
   width: 80px;
+  display: inline-flex;
 }
 
-#A {
+#C {
   height: 50vh;
+}
+
+.columns p {
+  color: white;
+  text-align: center;
+}
+
+.column #services {
+  color: white;
+  font-size: 25px;
+}
+
+.column h1 {
+  font-size: 40px;
 }
