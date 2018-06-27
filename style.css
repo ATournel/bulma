@@ -1,0 +1,32 @@
+/*Bulma*/
+
+#image
+{
+  background: url("https://www.pole-emploi.fr/accueil/image/mmlelement/pj/ea/bc/95/24/home-cover-48859.jpg") no-repeat center center fixed;
+  background-size: cover;
+  display: flex;
+  height: 60vh;
+  justify-content: center;
+}
+
+.navigation {
+  text-decoration: none;
+}
+
+header nav ul
+{
+  list-style: none;
+  display: flex;
+  background-color: white;
+  height: 50px;
+  font-size: 1em;
+}
+
+
+
+.contenu {
+  color: white;
+  text-align: center;
+  font-size: 1em;
+  margin-top: auto;
+}
