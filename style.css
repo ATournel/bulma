@@ -25,3 +25,13 @@
   font-size: 1em;
   margin-top: auto;
 }
+
+#image a {
+  border-radius: 100%;
+  height: 80px;
+  width: 80px;
+}
+
+#A {
+  height: 50vh;
+}
