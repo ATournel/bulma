@@ -44,6 +44,8 @@
 .columns p {
   color: white;
   text-align: center;
+  font-size: 15px;
+  align-items: center;
 }
 
 .column #services {
